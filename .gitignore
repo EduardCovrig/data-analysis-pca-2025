@@ -1,0 +1,14 @@
+.idea/
+.vscode/
+
+.git/
+
+__pycache__/
+*.pyc
+
+venv/
+env/
+.venv/
+
+.DS_Store
+Thumbs.db
